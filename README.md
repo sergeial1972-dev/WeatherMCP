@@ -1,6 +1,6 @@
 <h1 align="center" id="title">WeatherMCP</h1>
 
-<p id="description">OpenWeatherMap MCP-server written with fastmcp</p>
+<p id="description">OpenWeatherMap MCP-server written with FastMCP</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -37,3 +37,4 @@ Technologies used in the project:
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT
+
