@@ -1,2 +1,0 @@
-# WeatherMCP
-OpenWeatherMap MCP-server
